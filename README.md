@@ -349,8 +349,6 @@
   <img src="https://drive.google.com/uc?export=view&id=1ry1M5-B62D_1AKB0DSvGPDixvURlE-B7" width="100%">
 </div>
 
-## [ER Diagram](https://www.erdcloud.com/d/xtL5NYsYb5aaKLXFM)
-
 <br>
 <br>
 
